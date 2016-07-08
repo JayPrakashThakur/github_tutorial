@@ -1,2 +1,2 @@
 # github_tutorial
-This is just a github exercise.
+This is just a github exercise, for learning.
